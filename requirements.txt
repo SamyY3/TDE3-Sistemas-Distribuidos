@@ -1,0 +1,3 @@
+# Cliente Kafka para Python (producer, consumer e admin).
+# Versao 2.0.3 ou superior e necessaria para funcionar em Python 3.12/3.13.
+kafka-python>=2.0.3,<3

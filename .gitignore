@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration
+.env
+
+# Generated application data
+data/
+
+# Editor and operating system
+.vscode/*
+!.vscode/
+!.vscode/tasks.json
+.idea/
+.DS_Store
+Thumbs.db
